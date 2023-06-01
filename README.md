@@ -24,7 +24,7 @@
 开发模式:前后端分离,前端负责数据渲染,后端返回数据。
 
 
-### [在线预览](https://www.zykhome.club/#/login "在线预览") & [后端项目](https://github.com/zykzhangyukang/Xinguan "后端项目") & [前端项目](https://github.com/zykzhangyukang/xinguan-vue "前端项目")
+### [在线预览](https://www.zykhome.club/#/login "在线预览") & [后端项目](https://github.com/zykzhangyukang/Xinguan "后端项目") & [前端项目](https://github.com/dokkc/xinguan-vue.git "前端项目")
 
 #### 模块划分
 
